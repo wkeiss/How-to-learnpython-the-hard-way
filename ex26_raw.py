@@ -1,3 +1,4 @@
+# this excise need learners to find the bug of the following,and fix it.my answer in the file ex26.py.
 def break_words(stuff):
     """This function will break up words for us."""
     words = stuff.split(' ')
