@@ -62,7 +62,7 @@ mary.pet = satan
 frank = Employee("Frank", 120000)
 
 ## frak has_a pet of some kind.
-frak.pet = rover
+frank.pet = rover
 
 ## flipper is_a Fish.
 flipper = Fish()
